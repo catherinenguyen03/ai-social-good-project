@@ -1,12 +1,12 @@
 # ai-social-good-project
 Helping recent college graduates with finding a job
 
-##The problem and who it affects
+#The problem and who it affects
 
-##AI capability used and why it fits
+#AI capability used and why it fits
 
-##Workflow
+#Workflow
 
-##One failure
+#One failure
 
-##One change
+#One change
