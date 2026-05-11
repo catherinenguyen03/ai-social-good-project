@@ -8,6 +8,7 @@ The problem in our local community that we want to look at is how the job market
 We decided Lab 2 addresses the failure point of recent college graduates struggling to stand out in the job market and secure full-time employment. This lab focuses on text generation, where the AI provided tailored recommendations and suggested actions that graduates can take to strengthen their resumes, improve applications, and differentiate themselves from other candidates.
 
 ## Workflow
+The input is a user describing their struggles with finding a job. They describe that they have a 3.4 GPA, no internship experience, and they keep getting rejected
 
 ## One failure
 
