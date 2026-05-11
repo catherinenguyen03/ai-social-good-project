@@ -5,7 +5,7 @@ Helping recent college graduates with finding a job
 The problem in our local community that we want to look at is how the job market has impacted recent college graduates. This aligns with Goal 8. Recent college graduates are impacted because they are having a hard time finding a full time job when they graduate and maintain their job if they receive an offer.
 
 ## AI capability used and why it fits
-We decided Lab 2 addresses the failure point of recent college graduates struggling to stand out in the job market and secure full-time employment. This lab focuses on text generation, where the AI provided tailored recommendations and suggested actions that graduates can take to strengthen their resumes, improve applications, and differentiate themselves from other candidates.
+We decided Lab 2 and Lab 3 addresses the failure point of recent college graduates struggling to stand out in the job market and secure full-time employment. Lab 2 focuses on text generation, where the AI provided tailored recommendations and suggested actions that graduates can take to strengthen their resumes, improve applications, and differentiate themselves from other candidates. Lab 3 
 
 ## Workflow
 The input is a user describing their struggles with finding a job. They describe that they have a 3.4 GPA, no internship experience, and they keep getting rejected. The AI output is a plan for how the graduate can take action. It recommends networking, utilizing LinkedIn, resume review, career fairs, and company tours. The graduate acts on the output and connects with alumni from their school to network with them, asking for career advice and mentorship.
