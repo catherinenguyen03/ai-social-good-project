@@ -12,4 +12,4 @@ AI capability is used to create tailored recommedations and suggestions on the i
 ## One failure
 
 ## One change
-One change that companies can do 
+One change that students can do is focus gaining real, practical experience before graduating in the Bay Area. Many of the students depend on just their classes, but now a days, employers look for other practical skills. By doing different internships throughtout the college experience, getting involved in research, building projects and having more experience before they graduate. This makes the candidates and helps employers feel more confident when they are trying to hire new students after graduation. 
